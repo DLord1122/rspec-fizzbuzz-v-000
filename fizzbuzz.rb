@@ -1,4 +1,1 @@
 
-def fizzbuzz
-
-end
